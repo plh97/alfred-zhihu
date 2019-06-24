@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconid</key>
+	<string>BAA76922-C80E-47B0-8850-8980D010F351</string>
+	<key>iconisuserspecified</key>
+	<false/>
+	<key>items</key>
+	<array>
+		<dict/>
+		<dict/>
+		<dict/>
+		<dict/>
+		<dict/>
+		<dict/>
+		<dict>
+			<key>actionconfig</key>
+			<dict>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://www.zhihu.com/search?q={query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>actionuid</key>
+			<string>remote.alfred.openurl</string>
+			<key>buttoniconid</key>
+			<string>7212D529-DF0E-4F3C-8CCD-450F2450E5A8</string>
+			<key>buttonlabel</key>
+			<string>知乎搜索</string>
+			<key>itemuid</key>
+			<string>12B39DDB-5F3A-476C-B32B-697B1D451451</string>
+		</dict>
+		<dict/>
+		<dict/>
+		<dict/>
+		<dict/>
+		<dict/>
+		<dict/>
+		<dict/>
+		<dict/>
+		<dict/>
+	</array>
+	<key>subtitle</key>
+	<string>zhihu</string>
+	<key>title</key>
+	<string>zhihu</string>
+</dict>
+</plist>
